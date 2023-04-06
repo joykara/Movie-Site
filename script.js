@@ -13,6 +13,5 @@ function returnMovies(url) {
             data.results.forEach(element => {
                 const div = document.createElement("div");
             });
-        
     })
 }
