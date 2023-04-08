@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Movie Site
 
 This is a simple Movie Website project I took up to help me improve my coding skills by building realistic projects.
 I integrated the website with a TMDB API key to output a list of movies and enable one to search for movies by title.
